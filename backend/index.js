@@ -21,7 +21,7 @@ const _dirname = path.resolve();
 //restricts the allowed origin more strictly
 const corsOptions = {
     //allows the end domain to access the server's resources
-    origin:true,
+    origin:"https://medicare1-qhli.onrender.com",
     credentials:true
 }
 
