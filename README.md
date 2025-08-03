@@ -6,7 +6,7 @@ Medicare is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) applicati
 
 ## 🌐 Live Demo
 
-[Live Link](https://medicare1-qhli.onrender.com/);
+[Live Link](https://medicare1-qhli.onrender.com/)
 
 ## 📆 Tech Stack
 
